@@ -1,5 +1,5 @@
 # PostgreSQL
-Exercises from LinkedIn PostgreSQL course for my own use
+Exercises from LinkedIn PostgreSQL course for my own use - screenshots
 
 Creating a new table using terminal
 
